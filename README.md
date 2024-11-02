@@ -10,7 +10,7 @@
 		
   :purple_heart: Here is my X account.[みゆきち@RUNTEQ59期b](https://x.com/miyukichi_eng?t=1rbKirHwJpI2bFk9axS_RQ&s=09)
 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxxxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=mi-yu123&theme=onedark)](https://github.com/mi-yu123/github-profile-trophy)
 
 <!---
 mi-yu123/mi-yu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
